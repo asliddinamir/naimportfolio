@@ -1,3 +1,3 @@
 # naimportfolio
 
-Successfully deployed to https://asliddin.com/naimportfolio/
+Successfully deployed to https://asliddinamir.github.io/naimportfolio/
